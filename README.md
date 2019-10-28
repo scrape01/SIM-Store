@@ -3,7 +3,7 @@ Save small files to a SIM (subscriber identity module or subscriber identificati
 
 Most modern SIM cards can store 128 to 256 kilobytes of user-writable data. Of that, approximately 7 kilobytes is available for ADN. ADN storge is typically not used in modern smartphones, which store contacts using the phone's internal memory.
 
-[logo]: https://github.com/scrape01/SIM-Store/blob/master/images/form.png "SIM Store form"
+![alt text](https://github.com/scrape01/SIM-Store/blob/master/images/form.png "SIM Store form")
 
 ## Project Prerequisites
 * Windows 10
